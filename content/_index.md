@@ -4,7 +4,7 @@ description: A one-stop repository of resources and guides for prospective anaes
 toc: false
 ---
 
-This website serves as a companion to the [Anaesthesia Department at RCH](https://anaesdept.org), aimed at providing everything you need to prepare for, apply to, and thrive in the Fellowship program.
+This website serves as a companion to the [Anaesthesia Department at RCH](https://www.rch.org.au/anaes/Anaesthesia/), aimed at providing everything you need to prepare for, apply to, and thrive in the Fellowship program.
 
 Inside, you will find:
 - 📝 **Application guide**: eligibility, key dates, and submission steps  
@@ -20,15 +20,12 @@ Inside, you will find:
 ## Explore
 
 {{< cards >}}
-  {{< card link="eligibility"     title="Eligibility & Deadlines"     icon="calendar"         >}}
-  {{< card link="application"     title="Application Guide"           icon="document-text"   >}}
-  {{< card link="rotations"       title="Rotation Schedule"           icon="clock"            >}}
-  {{< card link="resources"       title="Learning Resources"          icon="book-open"        >}}
-  {{< card link="simulation"      title="Simulation & Skills"         icon="beaker"           >}}
-  {{< card link="faq"             title="FAQ & Contacts"              icon="question-mark-circle" >}}
+  {{< card link="resources/eligibility"     title="Eligibility & Deadlines"     icon="calendar"         >}}
+  {{< card link="resources/application"     title="Application Guide"           icon="document-text"   >}}
+  {{< card link="resources/rotations"       title="Rotation Schedule"           icon="clock"            >}}
+  {{< card link="resources/learning"       title="Learning Resources"          icon="book-open"        >}}
+  {{< card link="resources/learning/simulation"      title="Simulation & Skills"         icon="beaker"           >}}
 {{< /cards >}}
-
----
 
 ## Getting Started
 
@@ -45,4 +42,4 @@ Our program includes:
 - ✔️ **Didactic lectures** on advanced paediatric physiology and pharmacology  
 - ✔️ **Research & quality improvement** opportunities with departmental support  
 
-For clinicians wanting to explore our online lab resources, see the [Data Science Hub](/data-lab) powered by [TLJH](https://tljh.jupyter.org) and hosted at the [Lab site](https://lab.anaesdept.org).
+For clinicians wanting to explore our online lab resources, see the [Data Science Hub](https://data.anaesdept.org) powered by [TLJH](https://tljh.jupyter.org) and hosted at the [Lab site](https://lab.anaesdept.org).
