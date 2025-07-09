@@ -4,3 +4,4 @@ public/
 
 # Editor
 .vscode/
+.devcontainer

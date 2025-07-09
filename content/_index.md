@@ -14,7 +14,7 @@ Inside, you will find:
 
 {{< callout emoji="🩺" title="New Applicants" >}}
   Applications for the 2026 Fellowship open **1 September 2025**.  
-  Please review the [Eligibility Criteria](/eligibility) and prepare your documents early.
+  **[Submit your application form here!](https://forms.office.com/r/X9Cb50J339)**
 {{< /callout >}}
 
 ## Explore
